@@ -1,2 +1,5 @@
 # hello-world
-bevezetésnek megteszi
+
+Sziasztok!
+
+Dani vagyok! Kicsi, de legalább büdös!
